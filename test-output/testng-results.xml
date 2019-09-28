@@ -1,0 +1,185 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="1" passed="1">
+  <reporter-output>
+    <line>
+      <![CDATA[Contact is displayed]]>
+    </line>
+    <line>
+      <![CDATA[Contact title is displayed]]>
+    </line>
+    <line>
+      <![CDATA[User Register is displayed]]>
+    </line>
+    <line>
+      <![CDATA[User Register title is displayed]]>
+    </line>
+    <line>
+      <![CDATA[Login is displayed]]>
+    </line>
+    <line>
+      <![CDATA[Login title is displayed]]>
+    </line>
+    <line>
+      <![CDATA[Become a Member is displayed]]>
+    </line>
+    <line>
+      <![CDATA[Become a Member title is displayed]]>
+    </line>
+    <line>
+      <![CDATA[Member Login is displayed]]>
+    </line>
+    <line>
+      <![CDATA[Member Login title is displayed]]>
+    </line>
+    <line>
+      <![CDATA[Party Login is displayed]]>
+    </line>
+    <line>
+      <![CDATA[Party Login title is displayed]]>
+    </line>
+    <line>
+      <![CDATA[Contact is displayed]]>
+    </line>
+    <line>
+      <![CDATA[Contact title is displayed]]>
+    </line>
+    <line>
+      <![CDATA[Contact is displayed]]>
+    </line>
+    <line>
+      <![CDATA[Contact title is displayed]]>
+    </line>
+    <line>
+      <![CDATA[Contact is displayed]]>
+    </line>
+    <line>
+      <![CDATA[Contact title is displayed]]>
+    </line>
+    <line>
+      <![CDATA[Contact is displayed]]>
+    </line>
+    <line>
+      <![CDATA[Contact title is displayed]]>
+    </line>
+    <line>
+      <![CDATA[Contact is displayed]]>
+    </line>
+    <line>
+      <![CDATA[Contact title is displayed]]>
+    </line>
+    <line>
+      <![CDATA[Contact is displayed]]>
+    </line>
+    <line>
+      <![CDATA[Contact title is displayed]]>
+    </line>
+    <line>
+      <![CDATA[Contact is displayed]]>
+    </line>
+    <line>
+      <![CDATA[Contact title is displayed]]>
+    </line>
+  </reporter-output>
+  <suite name="Suite" duration-ms="22464" started-at="2019-09-28T01:14:21Z" finished-at="2019-09-28T01:14:43Z">
+    <groups>
+    </groups>
+    <test name="Test" duration-ms="22464" started-at="2019-09-28T01:14:21Z" finished-at="2019-09-28T01:14:43Z">
+      <class name="com.sunrise.selenium.home.TC001">
+        <test-method status="PASS" signature="TC001(java.lang.String, java.lang.String)[pri:0, instance:com.sunrise.selenium.home.TC001@1f3ddb1]" name="TC001" duration-ms="22446" started-at="2019-09-28T06:44:21Z" finished-at="2019-09-28T06:44:43Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[chrome]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[http://www.politicalmembers.com/]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+            <line>
+              <![CDATA[Contact is displayed]]>
+            </line>
+            <line>
+              <![CDATA[Contact title is displayed]]>
+            </line>
+            <line>
+              <![CDATA[User Register is displayed]]>
+            </line>
+            <line>
+              <![CDATA[User Register title is displayed]]>
+            </line>
+            <line>
+              <![CDATA[Login is displayed]]>
+            </line>
+            <line>
+              <![CDATA[Login title is displayed]]>
+            </line>
+            <line>
+              <![CDATA[Become a Member is displayed]]>
+            </line>
+            <line>
+              <![CDATA[Become a Member title is displayed]]>
+            </line>
+            <line>
+              <![CDATA[Member Login is displayed]]>
+            </line>
+            <line>
+              <![CDATA[Member Login title is displayed]]>
+            </line>
+            <line>
+              <![CDATA[Party Login is displayed]]>
+            </line>
+            <line>
+              <![CDATA[Party Login title is displayed]]>
+            </line>
+            <line>
+              <![CDATA[Contact is displayed]]>
+            </line>
+            <line>
+              <![CDATA[Contact title is displayed]]>
+            </line>
+            <line>
+              <![CDATA[Contact is displayed]]>
+            </line>
+            <line>
+              <![CDATA[Contact title is displayed]]>
+            </line>
+            <line>
+              <![CDATA[Contact is displayed]]>
+            </line>
+            <line>
+              <![CDATA[Contact title is displayed]]>
+            </line>
+            <line>
+              <![CDATA[Contact is displayed]]>
+            </line>
+            <line>
+              <![CDATA[Contact title is displayed]]>
+            </line>
+            <line>
+              <![CDATA[Contact is displayed]]>
+            </line>
+            <line>
+              <![CDATA[Contact title is displayed]]>
+            </line>
+            <line>
+              <![CDATA[Contact is displayed]]>
+            </line>
+            <line>
+              <![CDATA[Contact title is displayed]]>
+            </line>
+            <line>
+              <![CDATA[Contact is displayed]]>
+            </line>
+            <line>
+              <![CDATA[Contact title is displayed]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- TC001 -->
+      </class> <!-- com.sunrise.selenium.home.TC001 -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
